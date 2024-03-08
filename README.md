@@ -15,10 +15,10 @@ Installation
 To get started with the RealTime Weather App, follow these steps:
 
 Clone the repository:
-git clone <repository-url>
+git clone <repo url>
 
 Navigate to the project directory:
-cd RealTimeWeatherApp
+cd ClimaTrack
 
 Install dependencies:
 npm install react-unicons react-toastify
